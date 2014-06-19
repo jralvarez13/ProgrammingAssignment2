@@ -31,7 +31,6 @@ makeCacheMatrix <- function(x = matrix()) {
 }
 
 
-## Write a short comment describing this function
 ## cacheSolve returns the inverse of a square matrix
 ## and caches the results when called repeatedly
 
